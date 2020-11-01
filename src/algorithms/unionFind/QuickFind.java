@@ -1,7 +1,10 @@
-package algorithms;
+package algorithms.unionFind;
 
 //"Eager" approach. Some issues as the union means changing a whole bunch of values
-//Way too slow. N to in
+//Way too slow.
+// O(N) operations to initilize
+// find is fast O(1)
+// O(N) operations for every union call
 public class QuickFind implements UnionFind {
     private int[] id;
     private int _count;
