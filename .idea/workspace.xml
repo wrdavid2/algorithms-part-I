@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1f3c68-61df-4a95-8969-f4250066787f" name="Default Changelist" comment="" />
+    <list default="true" id="ba1f3c68-61df-4a95-8969-f4250066787f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/unionFind/QuickUnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/unionFind/QuickUnionWeighted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/unionFind/interviewQuestions/SocialNetworkConnectivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/unionFind/interviewQuestions/UnionFindwithCanonicalElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/unionFind/percolation/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/QuickFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/unionFind/QuickFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/unionFind/UnionFind.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,46 +39,72 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Interface" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1jWrbxM1WogK08JOHL2GoWrVgeZ" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jZlKd2uvKPNgGl0Xcxdv7PMCSO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithms.UnionFind.InterviewQuestions" />
+      <recent name="algorithms.UnionFind" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ba1f3c68-61df-4a95-8969-f4250066787f" name="Default Changelist" comment="" />
-      <created>1603930767807</created>
+      <created>1604019432245</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603930767807</updated>
+      <updated>1604019432245</updated>
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-1155" y="302" key="#com.intellij.ide.util.MemberChooser" timestamp="1603932794369">
-      <screen x="-1920" y="76" width="1920" height="1040" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1604248515570">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1155" y="302" key="#com.intellij.ide.util.MemberChooser/-1920.76.1920.1040/0.0.1920.1040@-1920.76.1920.1040" timestamp="1603932794369" />
-    <state x="-1459" y="241" key="SettingsEditor" timestamp="1603932763866">
-      <screen x="-1920" y="76" width="1920" height="1040" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604248515570" />
+    <state x="-120" y="116" width="1736" height="856" key="DiffContextDialog" timestamp="1604020123445">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1459" y="241" key="SettingsEditor/-1920.76.1920.1040/0.0.1920.1040@-1920.76.1920.1040" timestamp="1603932763866" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1603936699855">
-      <screen x="-1920" y="76" width="1920" height="1040" />
+    <state x="-120" y="116" width="1736" height="856" key="DiffContextDialog/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604020123445" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604019557477">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/-1920.76.1920.1040/0.0.1920.1040@-1920.76.1920.1040" timestamp="1603936699855" />
-    <state x="-1297" y="301" width="672" height="678" key="search.everywhere.popup" timestamp="1603935864750">
-      <screen x="-1920" y="76" width="1920" height="1040" />
+    <state x="461" y="165" key="SettingsEditor/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604019557477" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1604248690463">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1297" y="301" width="672" height="678" key="search.everywhere.popup/-1920.76.1920.1040/0.0.1920.1040@-1920.76.1920.1040" timestamp="1603935864750" />
+    <state x="616" y="240" key="run.anything.popup/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604248690463" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604248749827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604248749827" />
   </component>
 </project>
