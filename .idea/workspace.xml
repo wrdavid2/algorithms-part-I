@@ -20,15 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba1f3c68-61df-4a95-8969-f4250066787f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/unionFind/QuickUnion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/unionFind/QuickUnionWeighted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/unionFind/interviewQuestions/SocialNetworkConnectivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/unionFind/interviewQuestions/UnionFindwithCanonicalElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/unionFind/percolation/Percolation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/arithmeticExpressionEval/FullyParenthesized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/Bag.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/QuickFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/unionFind/QuickFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/unionFind/UnionFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,10 +80,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1604248515570">
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1604265440423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604248515570" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604265440423" />
     <state x="-120" y="116" width="1736" height="856" key="DiffContextDialog" timestamp="1604020123445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -98,13 +92,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604019557477" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1604248690463">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1604274555214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604248690463" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604248749827">
+    <state x="616" y="240" key="run.anything.popup/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604274555214" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604274346624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604248749827" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604274346624" />
   </component>
 </project>
