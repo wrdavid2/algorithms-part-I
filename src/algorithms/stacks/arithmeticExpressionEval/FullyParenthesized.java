@@ -12,15 +12,15 @@ import java.util.Stack;
 // after the final right parenthesis has been processed, there is on value on the stack, which is the value of the expression
 public class FullyParenthesized {
 
-    Stack<String> operators = new Stack<String>();
-    Stack<Double> values = new Stack<Double>();
-    String _str;
+    private Stack<String> operators = new Stack<String>();
+    private Stack<Double> values = new Stack<Double>();
+    private String _str;
 
-    FullyParenthesized(String str) {
+    public FullyParenthesized(String str) {
         _str = str;
     }
 
-    private double Evaluate() {
+    public double evaluate() {
         for (int i = 0; i < _str.length(); ++i) {
             String l = Character.toString(_str.charAt(i));
             if (l.equals("(")) {
