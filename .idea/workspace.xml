@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba1f3c68-61df-4a95-8969-f4250066787f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/algorithms/queues/LinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/FixedSizeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/LinkedListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/ResizableStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmsProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/stacks/arithmeticExpressionEval/FullyParenthesized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/stacks/arithmeticExpressionEval/FullyParenthesized.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,19 +67,20 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="algorithms.stacks.arithmeticExpressionEval" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="algorithms.UnionFind.InterviewQuestions" />
-      <recent name="algorithms.UnionFind" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wrld0\Documents\Programming\Courses\Algorithms and Data Structures Sedgewick\Algorithms Part I\algorithms-part-I\src\algorithms\stacks\arithmeticExpressionEval" />
+      <recent name="C:\Users\wrld0\Documents\Programming\Courses\Algorithms and Data Structures Sedgewick\Algorithms Part I\algorithms-part-I\test" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithms.stacks" />
+      <recent name="algorithms.UnionFind.InterviewQuestions" />
+      <recent name="algorithms.UnionFind" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\wrld0\Documents\Programming\Courses\Algorithms and Data Structures Sedgewick\Algorithms Part I\algorithms-part-I\src\algorithms\stacks\arithmeticExpressionEval" />
-      <recent name="C:\Users\wrld0\Documents\Programming\Courses\Algorithms and Data Structures Sedgewick\Algorithms Part I\algorithms-part-I\test" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.All in AlgorithmsProject (1)">
@@ -158,38 +161,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604278490961" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604278902928">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1604283186615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604278902928" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604278902927">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604283186615" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1604283186614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604278902927" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604278902927">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604283186614" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1604283186614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604278902927" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604278902927">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604283186614" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1604283186614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604278902927" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1604278878146">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604283186614" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1604283186615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604278878146" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1604278878146">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604283186615" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1604283186615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604278878146" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1604278878146">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604283186615" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1604283186615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604278878146" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1604278878146">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604283186615" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1604283186615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604278878146" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/-1920.76.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604283186615" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1604278024362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
