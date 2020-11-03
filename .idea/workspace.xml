@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1f3c68-61df-4a95-8969-f4250066787f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/queues/LinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/FixedSizeStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/LinkedListStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/ResizableStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ba1f3c68-61df-4a95-8969-f4250066787f" name="Default Changelist" comment="Fixed-sized, linked-list, and resizable stack" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,6 +120,14 @@
       <option name="presentableId" value="Default" />
       <updated>1604019432245</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fixed-sized, linked-list, and resizable stack">
+      <created>1604371701843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604371701843</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +141,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed-sized, linked-list, and resizable stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed-sized, linked-list, and resizable stack" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1604265440423">
